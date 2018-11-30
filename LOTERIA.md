@@ -1,6 +1,8 @@
 ## Loteria
 
-Resolva este exercício na linguagem de programação JavaScript.
+Você pode resolver este exercício na linguagem de programação que se sentir mais confortável.
+
+Os exemplos das funções estão escritos em JavaScript, apenas para uma base de entendimento.
 
 Considere que existe um vetor chamado *sorteio* com seis posições, que armazenam números inteiros. Esse vetor representa os números sorteados por uma loteria.
 
