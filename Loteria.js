@@ -68,11 +68,9 @@ class Loteria {
     let numerosNaoJogados = [];
     this.sorteio.forEach((numeroSorteado)=>{
       let bFoiJogado=false;
-      this.numerosJogado.forEach((obj, index)=>{
-        if(obj.numero == numeroSorteado) {
-          bFoiJogado=true;
-        }
-      });
+      for(let i=0; i<this.numerosJogado.length && bFoiJogado==false; i++) {
+        bFoiJogado = (this.numerosJogado[i].numero == numeroSorteado);
+      }
       if(!bFoiJogado) {
         numerosNaoJogados.push(numeroSorteado);
       }
