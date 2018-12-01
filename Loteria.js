@@ -32,20 +32,25 @@ class Loteria {
     });
   }
 
+  contAcerto(jogo) {
+    let contAcerto = 0;
+
+    jogo.getNumeros().forEach((numero)=>{
+      this.sorteio.forEach((numeroSorteado)=>{
+        contAcerto = (numero==numeroSorteado)?(contAcerto+1):contAcerto;
+      });
+    });
+
+    return contAcerto;
+  }
+
   /* Parte do desafio */
   calculaGanhador(qtdAcertos){
     let contGanhador = 0;
 
     this.jogos.forEach((jogo)=>{
-      let contAcerto = 0;
-
-      jogo.getNumeros().forEach((numero)=>{
-        this.sorteio.forEach((numeroSorteado)=>{
-          contAcerto = (numero==numeroSorteado)?(contAcerto+1):contAcerto;
-        });
-      });
-
-      contGanhador = (contAcerto>=qtdAcertos)?(contGanhador+1):contGanhador;
+      let contAcerto = this.contAcerto(jogo);
+      contGanhador = (contAcerto==qtdAcertos)?(contGanhador+1):contGanhador;
     });
 
     return contGanhador;
@@ -77,13 +82,7 @@ class Loteria {
   resultado(){
 
     this.jogos.forEach((jogo)=>{
-      let contAcerto = 0;
-
-      jogo.getNumeros().forEach((numero)=>{
-        this.sorteio.forEach((numeroSorteado)=>{
-          contAcerto = (numero==numeroSorteado)?(contAcerto+1):contAcerto;
-        });
-      });
+      let contAcerto = this.contAcerto(jogo);
 
       let percentValor = 0;
       switch (contAcerto) {
