@@ -1,11 +1,11 @@
 # desafios
 Desafios de propósito geral.
 
-# Requirements
+# Requerimentos para rodar
 
 [NodeJS](https://nodejs.org)
 
-# Para checar:
+# Rodando
 
 Clone e rode:
 ```
