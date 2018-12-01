@@ -12,7 +12,7 @@ class Loteria {
   }
   addJogo(jogo) {
     this.jogos.push(jogo);
-    jogo.getJogo().forEach((numero)=>{
+    jogo.getNumeros().forEach((numero)=>{
       let bJaFoiJogado = false;
       this.numerosJogado.forEach((numeroJogado, index)=>{
         if(numeroJogado.numero == numero) {
@@ -28,7 +28,7 @@ class Loteria {
   }
   showJogos() {
     this.jogos.forEach((jogo, index)=>{
-      console.log("["+index+"] -> ", jogo.getJogo());
+      console.log("["+index+"] -> ", jogo.getNumeros());
     });
   }
 
@@ -39,7 +39,7 @@ class Loteria {
     this.jogos.forEach((jogo)=>{
       let contAcerto = 0;
 
-      jogo.getJogo().forEach((numero)=>{
+      jogo.getNumeros().forEach((numero)=>{
         this.sorteio.forEach((numeroSorteado)=>{
           contAcerto = (numero==numeroSorteado)?(contAcerto+1):contAcerto;
         });
@@ -73,6 +73,31 @@ class Loteria {
       }
     });
     return numerosNaoJogados;
+  }
+  resultado(){
+
+    this.jogos.forEach((jogo)=>{
+      let contAcerto = 0;
+
+      jogo.getNumeros().forEach((numero)=>{
+        this.sorteio.forEach((numeroSorteado)=>{
+          contAcerto = (numero==numeroSorteado)?(contAcerto+1):contAcerto;
+        });
+      });
+
+      let percentValor = 0;
+      switch (contAcerto) {
+        case 6:
+          percentValor = 0.85;
+          break;
+        case 5:
+          percentValor = 0.1;
+        case 4:
+          percentValor = 0.05;
+        default:
+      }
+      console.log("Jogador acertou "+contAcerto+" numeros irá ganhar: R$"+(this.valor*percentValor), jogo.getNumeros());
+    });
   }
 }
 

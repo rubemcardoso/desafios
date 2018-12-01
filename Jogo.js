@@ -2,7 +2,7 @@ class JogoClass {
   constructor(jogo) {
     this.jogo = jogo;
   }
-  getJogo() {
+  getNumeros() {
     return this.jogo;
   }
 }
