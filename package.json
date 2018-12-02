@@ -1,0 +1,19 @@
+{
+  "name": "desafios",
+  "version": "1.0.0",
+  "description": "Desafios de propósito geral.",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meifacil/desafios.git"
+  },
+  "author": "Guihgo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meifacil/desafios/issues"
+  },
+  "homepage": "https://github.com/meifacil/desafios#readme"
+}
