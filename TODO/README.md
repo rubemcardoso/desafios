@@ -36,7 +36,7 @@ export default App
 
 Lembre-se de implementar as seguintes regras:
 
-- ligar a alteração `onCHange` do `input`com o atributo `state.todo_text`;
+- ligar a alteração `onChange` do `input`com o atributo `state.todo_text`;
 - antes de adicionar um novo elemento, verificar se existe algo preenchido em `state.todo_text`, e adicionar somente se existir um valor preenchido;
 - ao adicionar/remover um novo elemento, invocar a dunção `loadItems()` para atualizar a lista de itens;
 - ao mostrar cada elemento, lembrar de considerar uma forma de excluir o item em questão chamando a função `removeItem(item)`;
