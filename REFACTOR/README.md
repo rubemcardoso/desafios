@@ -12,7 +12,7 @@ Para isso, deve-se utilizar tecnologias `JavaScript` para a resolução do probl
 
 A sua tarefa é recriar o cadastro e listagens do produto `Link de Pagamento`.
 
-Este produto é bem simples! Se um MEI quiser cobrar seus clientes por cartão, ele pode configurar cobrança no nosso aplicativo.
+Este produto é bem simples! Se um MEI quiser cobrar seus clientes por cartão, ele pode configurar uma cobrança no nosso aplicativo.
 
 Nessa cobrança ele deverá informar alguns campos como: 
 
@@ -36,7 +36,7 @@ Na pasta `images`, temos as telas capturadas, que vão ser o guia para a criaç�
 - 2 listagens:
   - A liberar (Lista de cobranças que que ainda não foram liberadas);
   - A vencer (Lista de cobranças que que vão vencer);
-  - Pode-se ignorar (Atrasados e Cancelados, utiliando dados mocados); 
+  - Pode-se ignorar (Atrasados e Cancelados, utilizando dados mocados); 
 - Um botão para iniciar uma nova cobrança. (Dá início ao processo de captura dos dados);
 
 ## TELA 02
@@ -105,18 +105,10 @@ Para as parcelas, utilize a seguinte tabela de juros:
 ## TELA 10
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/meifacil/desafios/master/REFACTOR/images/10.png" width="400"/>
-</dp>
-
-- A `TELA 10` representa a listagem de cobranças a liberar;
-
-## TELA 11
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/meifacil/desafios/master/REFACTOR/images/11.png" width="400"/>
 </dp>
 
-- A `TELA 11` representa a listagem de cobranças a vencer;
+- A `TELA 10` representa um modelo de listagem de cobranças; Utilize o mesmo modelo para listar os tipos de cobranças previstos;
 
 ---
 
