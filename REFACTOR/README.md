@@ -28,8 +28,8 @@ Na pasta `images`, temos as telas capturadas, que vão ser o guia para a criaç�
 ### TELA 01
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/meifacil/desafios/master/REFACTOR/images/01.png" width="400"/>
-</p>
+  <img src="https://raw.githubusercontent.com/meifacil/desafios/master/REFACTOR/images/01.png" width="400" style="border:2px solid gray"/>
+</dp>
 
 - Saldo a ser liberado. (Obtido através de um endpoint do `Back-End`, a regra é somar todas as cobranças que estejam liberadas);
 - O botão transferir pode ser ignorado;
@@ -42,17 +42,17 @@ Na pasta `images`, temos as telas capturadas, que vão ser o guia para a criaç�
 ## TELAS DE 02 A 07
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/meifacil/desafios/master/REFACTOR/images/02.png" width="400"/>
+  <img src="https://raw.githubusercontent.com/meifacil/desafios/master/REFACTOR/images/02.png" width="400" style="border:2px solid gray"/>
   <br><br>
-  <img src="https://raw.githubusercontent.com/meifacil/desafios/master/REFACTOR/images/03.png" width="400"/>
+  <img src="https://raw.githubusercontent.com/meifacil/desafios/master/REFACTOR/images/03.png" width="400" style="border:2px solid gray"/>
   <br><br>
-  <img src="https://raw.githubusercontent.com/meifacil/desafios/master/REFACTOR/images/04.png" width="400"/>
+  <img src="https://raw.githubusercontent.com/meifacil/desafios/master/REFACTOR/images/04.png" width="400" style="border:2px solid gray"/>
   <br><br>
-  <img src="https://raw.githubusercontent.com/meifacil/desafios/master/REFACTOR/images/05.png" width="400"/>
+  <img src="https://raw.githubusercontent.com/meifacil/desafios/master/REFACTOR/images/05.png" width="400" style="border:2px solid gray"/>
   <br><br>
-  <img src="https://raw.githubusercontent.com/meifacil/desafios/master/REFACTOR/images/06.png" width="400"/>
+  <img src="https://raw.githubusercontent.com/meifacil/desafios/master/REFACTOR/images/06.png" width="400" style="border:2px solid gray"/>
   <br><br>
-  <img src="https://raw.githubusercontent.com/meifacil/desafios/master/REFACTOR/images/07.png" width="400"/>
+  <img src="https://raw.githubusercontent.com/meifacil/desafios/master/REFACTOR/images/07.png" width="400" style="border:2px solid gray"/>
   <br><br>
 </p>
 
@@ -61,32 +61,32 @@ Na pasta `images`, temos as telas capturadas, que vão ser o guia para a criaç�
 ## TELA 08
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/meifacil/desafios/master/REFACTOR/images/08.png" width="400"/>
-</p>
+  <img src="https://raw.githubusercontent.com/meifacil/desafios/master/REFACTOR/images/08.png" width="400" style="border:2px solid gray"/>
+</dp>
 
 - A `TELA 08` representa um resumo dos campos digitados;
 
 ## TELA 09
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/meifacil/desafios/master/REFACTOR/images/09.png" width="400"/>
-</p>
+  <img src="https://raw.githubusercontent.com/meifacil/desafios/master/REFACTOR/images/09.png" width="400" style="border:2px solid gray"/>
+</dp>
 
 - A `TELA 09` representa sucesso na operação;
 
 ## TELA 10
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/meifacil/desafios/master/REFACTOR/images/10.png" width="400"/>
-</p>
+  <img src="https://raw.githubusercontent.com/meifacil/desafios/master/REFACTOR/images/10.png" width="400" style="border:2px solid gray"/>
+</dp>
 
 - A `TELA 10` representa a listagem de cobranças a liberar;
 
 ## TELA 11
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/meifacil/desafios/master/REFACTOR/images/11.png" width="400"/>
-</p>
+  <img src="https://raw.githubusercontent.com/meifacil/desafios/master/REFACTOR/images/11.png" width="400" style="border:2px solid gray"/>
+</dp>
 
 - A `TELA 11` representa a listagem de cobranças a vencer;
 
