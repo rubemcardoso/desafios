@@ -27,9 +27,9 @@ Na pasta `images`, temos as telas capturadas, que vão ser o guia para a criaç�
 
 ### TELA 01
 
-<div style="text-align:center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/meifacil/desafios/master/REFACTOR/images/01.png" width="400"/>
-</div>
+</p>
 
 - Saldo a ser liberado. (Obtido através de um endpoint do `Back-End`, a regra é somar todas as cobranças que estejam liberadas);
 - O botão transferir pode ser ignorado;
@@ -41,7 +41,7 @@ Na pasta `images`, temos as telas capturadas, que vão ser o guia para a criaç�
 
 ## TELAS DE 02 A 07
 
-<div style="text-align:center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/meifacil/desafios/master/REFACTOR/images/02.png" width="400"/>
   <br><br>
   <img src="https://raw.githubusercontent.com/meifacil/desafios/master/REFACTOR/images/03.png" width="400"/>
@@ -54,39 +54,39 @@ Na pasta `images`, temos as telas capturadas, que vão ser o guia para a criaç�
   <br><br>
   <img src="https://raw.githubusercontent.com/meifacil/desafios/master/REFACTOR/images/07.png" width="400"/>
   <br><br>
-</div>
+</p>
 
 - Paras as `TELAS` de `02` até `07`, temos os campos a serem obtidos para a criação de uma nova cobrança;
 
 ## TELA 08
 
-<div style="text-align:center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/meifacil/desafios/master/REFACTOR/images/08.png" width="400"/>
-</div>
+</p>
 
 - A `TELA 08` representa um resumo dos campos digitados;
 
 ## TELA 09
 
-<div style="text-align:center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/meifacil/desafios/master/REFACTOR/images/09.png" width="400"/>
-</div>
+</p>
 
 - A `TELA 09` representa sucesso na operação;
 
 ## TELA 10
 
-<div style="text-align:center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/meifacil/desafios/master/REFACTOR/images/10.png" width="400"/>
-</div>
+</p>
 
 - A `TELA 10` representa a listagem de cobranças a liberar;
 
 ## TELA 11
 
-<div style="text-align:center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/meifacil/desafios/master/REFACTOR/images/11.png" width="400"/>
-</div>
+</p>
 
 - A `TELA 11` representa a listagem de cobranças a vencer;
 
