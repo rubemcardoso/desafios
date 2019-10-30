@@ -68,6 +68,16 @@ Na pasta `images`, temos as telas capturadas, que vão ser o guia para a criaç�
   <img src="https://raw.githubusercontent.com/meifacil/desafios/master/REFACTOR/images/06.png" width="400"/>
 </p>
 
+Para as parcelas, utilize a seguinte tabela de juros:
+
+| PARCELAS | JUROS |
+|----------|-------|
+| 1x       | 0%    |
+| 2x       | 0.5%  |
+| 3x       | 1.5%  |
+| 4x       | 2.5%  |
+| ...      | ...   |
+
 ## TELA 07
 
 <p align="center">
