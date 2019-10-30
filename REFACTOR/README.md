@@ -25,6 +25,8 @@ Nessa cobrança ele deverá informar alguns campos como:
 
 Na pasta `images`, temos as telas capturadas, que vão ser o guia para a criação do _layout_.
 
+![TELA 01](https://raw.githubusercontent.com/meifacil/desafios/master/REFACTOR/images/01.png =300px)
+
 - A `TELA 01` é a tela principal do produto:
   - Saldo a ser liberado. (Obtido através de um endpoint do `Back-End`, a regra é somar todas as cobranças que estejam liberadas);
   - O botão transferir pode ser ignorado;
