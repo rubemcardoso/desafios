@@ -25,21 +25,72 @@ Nessa cobrança ele deverá informar alguns campos como:
 
 Na pasta `images`, temos as telas capturadas, que vão ser o guia para a criação do _layout_.
 
-![TELA 01](https://raw.githubusercontent.com/meifacil/desafios/master/REFACTOR/images/01.png =300px)
+### TELA 01
 
-- A `TELA 01` é a tela principal do produto:
-  - Saldo a ser liberado. (Obtido através de um endpoint do `Back-End`, a regra é somar todas as cobranças que estejam liberadas);
-  - O botão transferir pode ser ignorado;
-  - 2 listagens:
-    - A liberar (Lista de cobranças que que ainda não foram liberadas);
-    - A vencer (Lista de cobranças que que vão vencer);
-    - Pode-se ignorar (Atrasados e Cancelados, utiliando dados mocados); 
-  - Um botão para iniciar uma nova cobrança. (Dá início ao processo de captura dos dados);
+<center>
+  <img src="https://raw.githubusercontent.com/meifacil/desafios/master/REFACTOR/images/01.png" alt="drawing" width="400"/>
+</center>
+
+- Saldo a ser liberado. (Obtido através de um endpoint do `Back-End`, a regra é somar todas as cobranças que estejam liberadas);
+- O botão transferir pode ser ignorado;
+- 2 listagens:
+  - A liberar (Lista de cobranças que que ainda não foram liberadas);
+  - A vencer (Lista de cobranças que que vão vencer);
+  - Pode-se ignorar (Atrasados e Cancelados, utiliando dados mocados); 
+- Um botão para iniciar uma nova cobrança. (Dá início ao processo de captura dos dados);
+
+## TELAS DE 02 A 07
+
+<center>
+  <img src="https://raw.githubusercontent.com/meifacil/desafios/master/REFACTOR/images/02.png" alt="drawing" width="400"/>
+  <br><br>
+  <img src="https://raw.githubusercontent.com/meifacil/desafios/master/REFACTOR/images/03.png" alt="drawing" width="400"/>
+  <br><br>
+  <img src="https://raw.githubusercontent.com/meifacil/desafios/master/REFACTOR/images/04.png" alt="drawing" width="400"/>
+  <br><br>
+  <img src="https://raw.githubusercontent.com/meifacil/desafios/master/REFACTOR/images/05.png" alt="drawing" width="400"/>
+  <br><br>
+  <img src="https://raw.githubusercontent.com/meifacil/desafios/master/REFACTOR/images/06.png" alt="drawing" width="400"/>
+  <br><br>
+  <img src="https://raw.githubusercontent.com/meifacil/desafios/master/REFACTOR/images/07.png" alt="drawing" width="400"/>
+  <br><br>
+</center>
+
 - Paras as `TELAS` de `02` até `07`, temos os campos a serem obtidos para a criação de uma nova cobrança;
+
+## TELA 08
+
+<center>
+  <img src="https://raw.githubusercontent.com/meifacil/desafios/master/REFACTOR/images/08.png" alt="drawing" width="400"/>
+</center>
+
 - A `TELA 08` representa um resumo dos campos digitados;
+
+## TELA 09
+
+<center>
+  <img src="https://raw.githubusercontent.com/meifacil/desafios/master/REFACTOR/images/09.png" alt="drawing" width="400"/>
+</center>
+
 - A `TELA 09` representa sucesso na operação;
+
+## TELA 10
+
+<center>
+  <img src="https://raw.githubusercontent.com/meifacil/desafios/master/REFACTOR/images/10.png" alt="drawing" width="400"/>
+</center>
+
 - A `TELA 10` representa a listagem de cobranças a liberar;
+
+## TELA 11
+
+<center>
+  <img src="https://raw.githubusercontent.com/meifacil/desafios/master/REFACTOR/images/11.png" alt="drawing" width="400"/>
+</center>
+
 - A `TELA 11` representa a listagem de cobranças a vencer;
+
+---
 
 Será necessário pensar em uma estrutura de banco de dados para armazenar os requisitos em questão.
 
