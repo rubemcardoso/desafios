@@ -122,6 +122,12 @@ Para as parcelas, utilize a seguinte tabela de juros:
 
 Será necessário pensar em uma estrutura de banco de dados para armazenar os requisitos em questão.
 
+## Assets
+
+Você pode obter os assets no arquivo do AdobeXd que está neste repositório.
+
+Lá também temos a paleta de cores.
+
 Crie um `Front-End` que se comunique com um `Back-End`, seguindo as instruções:
 
 ## Front-End
