@@ -1,18 +1,19 @@
 # DESAFIO:
-	* Api: 
-		1. Criar login e senha
-		2. Login
-	    3. Criar end-point para receber parametros de busca 
-		4. Criar end-point para retornar anúncios salvos no banco
 		
-	* Crawler:
-		1. Receber parametros produto e região e realizar pesquisa na olx.
-			1.1. Leitura de todos os anúncios no site.
-		2. Salvar no banco os anúncios encontrados na pesquisa.
+	* Web Crawler:
+		1. Receber parametros ('Produto', 'Região') e realizar pesquisa na olx filtrando a região recebida.
+			1.1. Ler todos os anúncios do site.
+			1.2. Salvar em banco os anúncios encontrados na pesquisa.
 	
+	* Api: 
+		1. Criar endpoint para cadastro de login e senha seguros
+		2. Criar endpoint para efetuar o login Login
+	    3. Criar end-point para receber parametros de busca a serem passados para o Web Crawler
+		4. Criar end-point para retornar anúncios salvos em banco
+
 	* Tecnologia
 		1. C# 
-		2. Sql Server
+		2. Sql / NoSql
 		
 	* Sugestão de Bibliotecas:
 		1. HtmlAgilityPack
@@ -22,11 +23,12 @@
 		1. Postman
 		2. Fiddler
 
+	* Crie um arquivo README.md na raiz do seu projeto, documentando a sua tragetória de implementação.
+
 # Prazo
-	* É dado 4 dias a partir da confirmação de recebimento do teste, que deve ser feita enviando um e-mail para: lincoln.santos@meifacil.com
+	* É dado 4 dias a partir da confirmação de recebimento do teste
 
 # Forma de Entrega
 	* Realize um PULL-REQUEST neste repositório com a sua solução.
-
-	* Crie um arquivo README.md na raiz do seu projeto, documentando a sua tragetória de implementação.
+	* Enviar email informando para lincoln.giacomini@gmail.com
 		
