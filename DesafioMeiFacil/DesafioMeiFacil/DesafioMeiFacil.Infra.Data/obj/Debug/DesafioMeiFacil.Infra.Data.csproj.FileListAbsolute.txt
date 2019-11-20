@@ -1,0 +1,13 @@
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.Infra.Data\bin\Debug\DesafioMeiFacil.Infra.Data.dll.config
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.Infra.Data\bin\Debug\DesafioMeiFacil.Infra.Data.dll
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.Infra.Data\bin\Debug\DesafioMeiFacil.Infra.Data.pdb
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.Infra.Data\bin\Debug\DesafioMeiFacil.Domain.dll
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.Infra.Data\bin\Debug\DesafioMeiFacil.Domain.pdb
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.Infra.Data\obj\Debug\DesafioMeiFacil.Infra.Data.csprojAssemblyReference.cache
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.Infra.Data\obj\Debug\DesafioMeiFacil.Infra.Data.csproj.CopyComplete
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.Infra.Data\obj\Debug\DesafioMeiFacil.Infra.Data.dll
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.Infra.Data\obj\Debug\DesafioMeiFacil.Infra.Data.pdb

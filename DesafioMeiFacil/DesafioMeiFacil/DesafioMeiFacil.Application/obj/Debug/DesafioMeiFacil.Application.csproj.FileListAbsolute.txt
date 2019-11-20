@@ -1,0 +1,15 @@
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.Application\bin\Debug\DesafioMeiFacil.Application.dll
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.Application\bin\Debug\DesafioMeiFacil.Application.pdb
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.Application\bin\Debug\DesafioMeiFacil.CrossCutting.dll
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.Application\bin\Debug\DesafioMeiFacil.Domain.dll
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.Application\bin\Debug\DesafioMeiFacil.Services.dll
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.Application\bin\Debug\HtmlAgilityPack.dll
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.Application\bin\Debug\DesafioMeiFacil.CrossCutting.pdb
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.Application\bin\Debug\DesafioMeiFacil.Domain.pdb
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.Application\bin\Debug\DesafioMeiFacil.Services.pdb
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.Application\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.Application\bin\Debug\HtmlAgilityPack.xml
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.Application\obj\Debug\DesafioMeiFacil.Application.csprojAssemblyReference.cache
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.Application\obj\Debug\DesafioMeiFacil.Application.csproj.CopyComplete
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.Application\obj\Debug\DesafioMeiFacil.Application.dll
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.Application\obj\Debug\DesafioMeiFacil.Application.pdb

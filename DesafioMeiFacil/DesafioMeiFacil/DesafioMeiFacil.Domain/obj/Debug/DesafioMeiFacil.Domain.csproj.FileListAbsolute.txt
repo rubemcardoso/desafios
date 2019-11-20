@@ -1,0 +1,5 @@
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.Domain\bin\Debug\DesafioMeiFacil.Domain.dll
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.Domain\bin\Debug\DesafioMeiFacil.Domain.pdb
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.Domain\obj\Debug\DesafioMeiFacil.Domain.dll
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.Domain\obj\Debug\DesafioMeiFacil.Domain.pdb
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.Domain\obj\Debug\DesafioMeiFacil.Domain.csprojAssemblyReference.cache

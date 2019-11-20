@@ -1,0 +1,11 @@
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.Services\bin\Debug\DesafioMeiFacil.Services.dll
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.Services\bin\Debug\DesafioMeiFacil.Services.pdb
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.Services\bin\Debug\DesafioMeiFacil.Domain.dll
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.Services\bin\Debug\HtmlAgilityPack.dll
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.Services\bin\Debug\DesafioMeiFacil.Domain.pdb
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.Services\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.Services\bin\Debug\HtmlAgilityPack.xml
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.Services\obj\Debug\DesafioMeiFacil.Services.csprojAssemblyReference.cache
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.Services\obj\Debug\DesafioMeiFacil.Services.csproj.CopyComplete
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.Services\obj\Debug\DesafioMeiFacil.Services.dll
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.Services\obj\Debug\DesafioMeiFacil.Services.pdb

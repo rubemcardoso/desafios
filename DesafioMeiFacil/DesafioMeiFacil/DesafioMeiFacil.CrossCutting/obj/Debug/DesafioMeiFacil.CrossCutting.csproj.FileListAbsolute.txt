@@ -1,0 +1,11 @@
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.CrossCutting\bin\Debug\DesafioMeiFacil.CrossCutting.dll
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.CrossCutting\bin\Debug\DesafioMeiFacil.CrossCutting.pdb
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.CrossCutting\bin\Debug\DesafioMeiFacil.Domain.dll
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.CrossCutting\bin\Debug\HtmlAgilityPack.dll
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.CrossCutting\bin\Debug\DesafioMeiFacil.Domain.pdb
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.CrossCutting\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.CrossCutting\bin\Debug\HtmlAgilityPack.xml
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.CrossCutting\obj\Debug\DesafioMeiFacil.CrossCutting.csprojAssemblyReference.cache
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.CrossCutting\obj\Debug\DesafioMeiFacil.CrossCutting.csproj.CopyComplete
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.CrossCutting\obj\Debug\DesafioMeiFacil.CrossCutting.dll
+C:\Users\rubem\Documents\Projects\DesafioMeiFacil\DesafioMeiFacil\DesafioMeiFacil.CrossCutting\obj\Debug\DesafioMeiFacil.CrossCutting.pdb
